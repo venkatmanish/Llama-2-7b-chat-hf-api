@@ -1,4 +1,5 @@
 LLAMA Chat
+
 LLAMA Chat Server is a Flask-based web application that serves as an interface to a conversational AI model for generating text based on user prompts. The server utilizes the Hugging Face Transformers library to interact with a pre-trained language model.
 
 Features
